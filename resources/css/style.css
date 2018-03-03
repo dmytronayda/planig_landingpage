@@ -39,6 +39,10 @@ h3 {
   width: 60%;
 }
 
+.company-name-text {
+  width: 80%;
+}
+
 .company-name img {
   padding: 4rem 0;
   width: 100%;
@@ -132,6 +136,24 @@ a {
 .swissmade h3 {
   margin: 0 auto;
 }
+
+.jumbotron-fire h2 {
+  font-size: 3rem;
+  color: #F9B62A;
+}
+.jumbotron-air h2 {
+  font-size: 3rem;
+  color:#BCCFDA;
+}
+.jumbotron-water h2{
+  font-size: 3rem;
+  color:#38B0E3;
+}
+.jumbotron-earth h2{
+  font-size: 3rem;
+  color:#7EB936;
+}
+
 @media only screen and (max-width: 480px) {
   .desktop {
     display: none;
