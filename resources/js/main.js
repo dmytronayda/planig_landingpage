@@ -7,7 +7,7 @@ $(document).ready(function(){
     cssEase: 'linear',
     arrows: false,
     draggable: false,
-    pauseOnFocus: false,
+    pauseOnFocus: true,
     pauseOnHover: false
   });
 });
