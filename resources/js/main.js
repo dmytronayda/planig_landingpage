@@ -15,6 +15,6 @@
 
 $(document).ready(function(){
   $("#fire").hover({
-    $(".logo img").fadeOut(100),
-  }); 
+    $(".logo img").fadeOut(100)
+  });
 });
