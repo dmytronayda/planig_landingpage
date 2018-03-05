@@ -22,7 +22,7 @@ h3 {
   background-color: white;
 }
 .logo {
-  width: 40%;
+  width:  30%;
 }
 
 .logo img {
@@ -36,7 +36,7 @@ h3 {
 }
 
 .company-name {
-  width: 60%;
+  width: 50%;
 }
 
 .company-name-text {
@@ -125,12 +125,12 @@ a {
 }
 .swissmade {
   display: flex;
-  align-items: center;
 }
 .img {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-left: 0.5rem;
 }
 
 .swissmade h3 {
