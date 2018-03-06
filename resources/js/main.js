@@ -11,11 +11,3 @@
 //     pauseOnHover: false
 //   });
 // });
-
-
-$(document).ready(function() {
-  $("#fire").hover(function() {
-    $(".logo-img").fadeOut(100),
-    $(".logo-img").attr("src", "./resources/images/e-planig-fire.png");
-  });
-});
