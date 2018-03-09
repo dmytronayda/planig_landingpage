@@ -6,7 +6,7 @@ html {
 
 h1 {
   font-family: 'Titillium Web', sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
 }
 
 h2 {
@@ -61,7 +61,7 @@ h3 {
 
 
 #text {
-  width: 90%;
+  width: 100%;
   display: flex;
   justify-content: center;
 }
