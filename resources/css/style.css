@@ -7,6 +7,7 @@ html {
 h1 {
   font-family: 'Titillium Web', sans-serif;
   font-size: 5rem;
+  font-weight: bold;
 }
 
 h2 {
@@ -165,5 +166,11 @@ a {
   }
   .logo-bottom {
     padding-top: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+      width: 1300px;
   }
 }
